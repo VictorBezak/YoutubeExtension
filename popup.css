@@ -1,0 +1,32 @@
+/* button {
+
+} */
+
+div.modal {
+    width: min-content;
+    font-size: 1rem;
+}
+
+h1.modal-title {
+    white-space: nowrap;
+    font-size: 1.25em;
+}
+
+div.modal-details {
+    font-size: 1em;
+    display: flex;
+    white-space: nowrap;
+    align-items: center;
+}
+
+div.modal-details span {
+    margin: 0 1ch;
+}
+
+div.modal-controls {
+    display: grid;
+}
+
+button {
+    cursor: pointer;
+}

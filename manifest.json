@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Watch Later Playlist Helper (Youtube)",
+    "description": "A tool to help bulk remove videos from your Youtube 'Watch Later' playlist",
+    "version": "1.0.0",
+    "icons": {
+        "128": "icon_128.png"
+    },
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
